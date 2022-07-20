@@ -181,7 +181,8 @@ img{
         padding: 0;
     }
     header{
-        height: 180px;
+        height: 190px;
+        padding-top: 20px;
         display: flex;
         flex-direction: column;
         border: none;
